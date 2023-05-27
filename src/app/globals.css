@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.text-stroke-black{
+  -webkit-text-stroke: 2px white;
+}
+
+.text-stroke-white{
+  -webkit-text-stroke: 2px black;
+}
